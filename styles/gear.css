@@ -191,3 +191,42 @@ nav h2{
     font-weight: 700px;
     padding: 10px 0px 10px 24px;
 }
+#footer{
+    max-width: 1707px;
+    background-color: #0A0826;
+    text-align: center;
+
+}
+
+.footer-container{
+    max-width: 262px;
+    padding: 50px 0;
+    margin: 0 auto;
+}
+.footer-heading h3{
+    font-size: 24px;
+    font-weight: 700px;
+    color: #FFFFFF;
+    margin-bottom: 5px;
+}
+.footer-heading p{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 700px;
+    color: #D9DBE1;
+}
+.icon ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 17px 33px 0 33px;
+    /*border: 1px solid red;*/
+    max-width: 176px;
+}
+.icon li a{
+    color: #FFFFFF;
+    border-radius: 8px;
+}
+
+
+
