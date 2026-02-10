@@ -78,3 +78,14 @@ nav h2{
     margin-top: 80px;
     background-image: url(../images/Circle\ design.svg);
 }
+#main{
+    margin: 0 auto;
+    max-width: 1110px;
+}
+.logo{
+    margin-top: 170px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid salmon;
+    padding: 43px 61px 37px 61px;
+}
