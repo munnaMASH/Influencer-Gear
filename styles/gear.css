@@ -153,3 +153,41 @@ nav h2{
     margin-left: 5px;
     margin-bottom: 100px;
 }
+#feature{
+    max-width: 1110px;
+    margin: 0 auto;
+    /*border: 1px solid rebeccapurple;*/
+    display: flex;
+    gap: 96px;
+}
+.feature-container{
+    max-width: 610px;
+    /*border: 1px solid red;*/
+    margin: 23px 0;
+}
+.feature-image{
+    max-width: 404px;
+    width: 100%;
+    margin-bottom: 100px;
+}
+.feature-heading h3{
+    font-size: 45px;
+    font-weight: 700px;
+    line-height: 60px;
+    color: #0A0826;
+    margin-bottom: 16px;
+}
+.feature-heading p{
+    font-size: 20px;
+    font-weight: 700px;
+    line-height: 28px;
+    color: #6C6C6C;
+    margin-bottom: 16px;
+}
+.btn-secodary{
+    background-color: #E02C6D;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 700px;
+    padding: 10px 0px 10px 24px;
+}
